@@ -4,7 +4,7 @@ Implementasi machine learning dengan Python (dengan module Skylearn / Scikit-Lea
 # Fitur
 * Supervised Learning (Pelatihan machine learning dengan label)
 * Structured Data (Pelatihan machine leraning dalam bentuk tabel dan data numerik)
-* 300+ sample data (Sumber : https://kaggle.com/heart-dissease)
+* 300+ sample data (Sumber : https://www.kaggle.com/cosminbulancea/heartdiseaseclassification)
 * Accuracy diatas 80% dengan RandomForestClassifier
 
 # Requirement
