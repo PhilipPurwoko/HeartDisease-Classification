@@ -15,3 +15,4 @@ Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Lear
 * Mushroom Classification (edible/poisonous)
 ### Regresion
 * Car Sales Prediction (discrite data)
+* Doctor Fee Preditction (discrite data)
