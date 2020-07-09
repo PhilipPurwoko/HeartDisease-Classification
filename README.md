@@ -1,5 +1,5 @@
 # Machine Learning
-Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Learn) dalam menyelesaikan kasus klasifikasi objek
+Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Learn) dalam menyelesaikan kasus
 
 # Requirement
 * Numpy `pip install numpy`
@@ -9,6 +9,9 @@ Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Lear
 * Pickle, untuk dumping model
 * Anaconda / Miniconda untuk Jupyter Notebook
 
-# Project
-* Heart Disease Classification
-* Mushroom Classification
+# Projects
+### Classification
+* Heart Disease Classification (positive/negative)
+* Mushroom Classification (edible/poisonous)
+### Regresion
+* Car Sales Prediction (discrite data)
