@@ -13,6 +13,7 @@ Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Lear
 ### Classification
 * Heart Disease Classification (positive/negative)
 * Mushroom Classification (edible/poisonous)
-### Regresion
-* Car Sales Prediction (discrite data)
-* Doctor Fee Preditction (discrite data)
+### Regression
+* Car Sales Prediction
+* Doctor Fee Preditction
+* Covid19 Analysis & Prediction (time series data)
