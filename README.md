@@ -1,5 +1,5 @@
 # Machine Learning
-Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Learn) dalam menyelesaikan kasus
+Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Learn) dalam menyelesaikan kasus regression, classification & clustering
 
 # Requirement
 * Numpy `pip install numpy`
@@ -7,7 +7,7 @@ Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Lear
 * Matplotlib (Jika dibutuhkan) `pip install matplotlib`
 * Sklearn / Scikit-Learn `pip install sklearn` atau `pip install scikit-learn`
 * Pickle, untuk dumping model
-* Anaconda / Miniconda untuk Jupyter Notebook
+* Anaconda untuk Jupyter Notebook
 
 # Projects
 ### Classification
@@ -16,4 +16,5 @@ Implementasi machine learning dengan Python (dengan module Sklearn / Scikit-Lear
 ### Regression
 * Car Sales Prediction
 * Doctor Fee Preditction
-* Covid19 Analysis & Prediction (time series data)
+### Clustering
+* Mall Customers Clustering
